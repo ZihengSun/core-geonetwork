@@ -17,5 +17,3 @@
 [submodule "docs/manuals"]
 	path = docs/manuals
 	url = https://github.com/geonetwork/doc.git
-[submodule "docs.manuals"]
-	ignore = untrackednual
